@@ -46,3 +46,21 @@ The project includes four dashboard pages:
 
 
 **Note:** This project is intended for learning and demonstrating database management and data analytics skills.
+
+
+
+
+## Dashboard Screenshots
+
+### 1. Hospital Management & Analytics Dashboard
+![Hospital Management Dashboard](page%201.png)
+
+### 2. Patient & Appointment Analysis
+![Patient and Appointment Analysis](page%202.png)
+
+### 3. Billing & Payment Analysis
+![Billing and Payment Analysis](page%203.png)
+
+### 4. Treatment & Lab Analysis
+![Treatment and Lab Analysis](page%204.png)
+
