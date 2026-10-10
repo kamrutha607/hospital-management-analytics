@@ -43,9 +43,6 @@ The project includes four dashboard pages:
 3. Open the Power BI file using Power BI Desktop.
 4. Configure the database connection if required to refresh the reports.
 
-## Project Status
-Completed as an academic project.
 
----
 
 **Note:** This project is intended for learning and demonstrating database management and data analytics skills.
